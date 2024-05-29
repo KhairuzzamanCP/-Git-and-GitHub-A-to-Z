@@ -4,4 +4,4 @@
 
 ### 1.ইউজার নাম সেট করা Commamd:
 
-``
+`git config --global user.name "Your Name"`
