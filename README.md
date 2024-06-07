@@ -6,5 +6,5 @@
 
 | Name   |     | Command      |
 | ------ | --- | ------------ |
-| Config | #   | `git config` |
+| Config |     | `git config` |
 | Status |     | `git status` |
