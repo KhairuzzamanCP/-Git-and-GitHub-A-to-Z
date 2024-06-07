@@ -19,6 +19,12 @@
 
 ![git status](images/image.png)
 
+| Code |     | Meaning                       |
+| ---- | --- | ----------------------------- |
+| M    |     | Modified (পরিবর্তিত)          |
+| A    |     | Staged (স্টেজড)               |
+| U    |     | Untracked (ট্র্যাক করা হয়নি) |
+
 ### এই আউটপুটে:
 
 - On branch main: আপনি বর্তমানে main ব্রাঞ্চে আছেন।
