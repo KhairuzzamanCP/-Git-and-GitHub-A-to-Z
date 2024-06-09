@@ -4,7 +4,7 @@
 
 ## **Git All Command**
 
-| Name   |     | Command      |
-| ------ | --- | ------------ |
-| Config |     | `git config` |
-| Status |     | `git status` |
+| Name   | Command      |
+| ------ | ------------ |
+| Config | `git config` |
+| Status | `git status` |
